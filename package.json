@@ -1,0 +1,8 @@
+{
+    "name":"generator-yeoman-colour-bug",
+    "version":"0.0.1",
+    "description":"",
+    "dependencies":{
+        "yeoman-generator":"^0.20.2"
+    }
+}
